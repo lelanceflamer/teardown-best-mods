@@ -1,0 +1,27 @@
+{
+    "mods": [
+        {
+            "id": "2923003321",
+            "smallthumburl": "https://steamuserimages-a.akamaihd.net/ugc/2268193115289748350/509D4383AA07A6F76FE9DD6933296F313963B472/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+            "bigthumburl": "https://steamuserimages-a.akamaihd.net/ugc/2070024200084378386/392D8EF625D0D6DD074E6ADB4540CC48FEE76FB4/?imw=116&imh=65&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+            "name": "Gwel Mall 1st anniversary update <3",
+            "creator": {
+                "name": "Gwel",
+                "id": "gwwel"
+            },
+            "type": "map"
+        },
+        {
+            "id": "3114561159",
+            "smallthumburl": "https://steamuserimages-a.akamaihd.net/ugc/2303092377008358744/593E6D3C28B76BC621A7443AF1954859897BDA4B/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+            "bigthumburl": "https://steamuserimages-a.akamaihd.net/ugc/2303092377008372971/73E34501799D959C452AB400604E4946B7F00211/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+            "name": "GLARE",
+            "creator": {
+                "name": "KBD2",
+                "id": "KBD2"
+            },
+            "type": "tool"
+        }
+    ],
+    "last-updated": "2024-02-25T09:49:18.772Z"
+}
